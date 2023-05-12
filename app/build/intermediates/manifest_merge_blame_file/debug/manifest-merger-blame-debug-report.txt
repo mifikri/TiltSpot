@@ -1,0 +1,79 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2017 Google Inc.
+4
+5Licensed under the Apache License, Version 2.0 (the "License");
+6you may not use this file except in compliance with the License.
+7You may obtain a copy of the License at
+8
+9    http://www.apache.org/licenses/LICENSE-2.0
+10
+11Unless required by applicable law or agreed to in writing, software
+12distributed under the License is distributed on an "AS IS" BASIS,
+13WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14See the License for the specific language governing permissions and
+15limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.tiltspot"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="15"
+23-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="26" />
+24-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml
+25
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+26-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:17:5-81
+26-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:17:22-78
+27    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+27-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:18:5-80
+27-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:18:22-77
+28
+29    <application
+29-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:19:5-33:19
+30        android:allowBackup="true"
+30-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:20:9-35
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:21:9-43
+33        android:label="@string/app_name"
+33-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:22:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:23:9-54
+35        android:supportsRtl="true"
+35-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:24:9-35
+36        android:theme="@style/AppTheme" >
+36-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:25:9-40
+37        <activity android:name="com.example.android.tiltspot.MainActivity" >
+37-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:26:9-32:20
+37-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:26:19-75
+38            <intent-filter>
+38-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:27:13-31:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:28:17-68
+39-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:28:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:30:17-76
+41-->/home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/AndroidManifest.xml:30:27-74
+42            </intent-filter>
+43        </activity>
+44
+45        <meta-data
+45-->[com.android.support:appcompat-v7:26.1.0] /home/fikri/.gradle/caches/transforms-3/eaffea3e6b20d762ee519ea2157914ce/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+46            android:name="android.support.VERSION"
+46-->[com.android.support:appcompat-v7:26.1.0] /home/fikri/.gradle/caches/transforms-3/eaffea3e6b20d762ee519ea2157914ce/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+47            android:value="26.1.0" />
+47-->[com.android.support:appcompat-v7:26.1.0] /home/fikri/.gradle/caches/transforms-3/eaffea3e6b20d762ee519ea2157914ce/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+48        <meta-data
+48-->[android.arch.lifecycle:runtime:1.0.0] /home/fikri/.gradle/caches/transforms-3/694ffce1479d8280458d133c7e9a71dd/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+49            android:name="android.arch.lifecycle.VERSION"
+49-->[android.arch.lifecycle:runtime:1.0.0] /home/fikri/.gradle/caches/transforms-3/694ffce1479d8280458d133c7e9a71dd/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58
+50            android:value="27.0.0-SNAPSHOT" />
+50-->[android.arch.lifecycle:runtime:1.0.0] /home/fikri/.gradle/caches/transforms-3/694ffce1479d8280458d133c7e9a71dd/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+51    </application>
+52
+53</manifest>

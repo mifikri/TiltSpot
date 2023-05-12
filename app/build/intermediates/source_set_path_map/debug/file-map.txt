@@ -1,0 +1,12 @@
+com.example.android.tiltspot.app-support-media-compat-26.1.0-0 /home/fikri/.gradle/caches/transforms-3/22d32cedd5934c0eef02368327c81f9b/transformed/support-media-compat-26.1.0/res
+com.example.android.tiltspot.app-support-compat-26.1.0-1 /home/fikri/.gradle/caches/transforms-3/b0324809c2b8be9fe4de604a7fcc0c3c/transformed/support-compat-26.1.0/res
+com.example.android.tiltspot.app-constraint-layout-1.0.2-2 /home/fikri/.gradle/caches/transforms-3/e1c5180ad5d82d570b4b45111942e96e/transformed/constraint-layout-1.0.2/res
+com.example.android.tiltspot.app-appcompat-v7-26.1.0-3 /home/fikri/.gradle/caches/transforms-3/eaffea3e6b20d762ee519ea2157914ce/transformed/appcompat-v7-26.1.0/res
+com.example.android.tiltspot.app-pngs-4 /home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/build/generated/res/pngs/debug
+com.example.android.tiltspot.app-resValues-5 /home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/build/generated/res/resValues/debug
+com.example.android.tiltspot.app-rs-6 /home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/build/generated/res/rs/debug
+com.example.android.tiltspot.app-mergeDebugResources-7 /home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.android.tiltspot.app-mergeDebugResources-8 /home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.android.tiltspot.app-merged_res-9 /home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/build/intermediates/merged_res/debug
+com.example.android.tiltspot.app-debug-10 /home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/debug/res
+com.example.android.tiltspot.app-main-11 /home/fikri/Documents/private/kuliah/papbl/TiltSpot/app/src/main/res
